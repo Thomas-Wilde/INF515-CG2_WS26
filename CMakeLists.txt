@@ -7,3 +7,4 @@ add_subdirectory(lib/glfw EXCLUDE_FROM_ALL)
 add_subdirectory(lib/glew EXCLUDE_FROM_ALL)
 
 add_subdirectory(task01-window)
+add_subdirectory(task02-clear_color)
