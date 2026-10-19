@@ -12,3 +12,8 @@ add_subdirectory(task03-triangles)
 add_subdirectory(task04-two_shaders)
 add_subdirectory(task05-shader_class)
 add_subdirectory(task06-uniform)
+add_subdirectory(task07-procedural)
+add_subdirectory(task08-animation)
+add_subdirectory(task09-uv_coordinates)
+add_subdirectory(task10-mipmaps)
+
