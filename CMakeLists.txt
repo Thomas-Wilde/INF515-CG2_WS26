@@ -16,4 +16,5 @@ add_subdirectory(task07-procedural)
 add_subdirectory(task08-animation)
 add_subdirectory(task09-uv_coordinates)
 add_subdirectory(task10-mipmaps)
-
+add_subdirectory(task11-glm)
+add_subdirectory(task12-transform)
