@@ -281,7 +281,6 @@ handleKeyboardEvents(Settings& setup, Shader& shader) {
     setup.press_m = true;
     setup.render_mode += 1;
     shader.setInt("render_mode", setup.render_mode);
-    takeScreenshot(setup);
     return;
   }
   if (glfwGetKey(setup.window, GLFW_KEY_M) == GLFW_RELEASE && setup.press_m) {
